@@ -1,0 +1,46 @@
+How many students do you want to add? 2
+
+Enter the Details for Student 1
+Enter the Id: 1
+Enter the Name: CATHRINE
+Enter the Age: 20
+Enter the Course: C
+
+Enter the Details for Student 2
+Enter the Id: 2
+Enter the Name: PRABA
+Enter the Age: 56
+Enter the Course: HTML
+
+Enter the name to search: PRABA
+
+Student Found:
+Id: 2
+Name: PRABA
+Age: 56
+Course: HTML
+
+Enter the ID to update: 1
+
+Current Details:
+Id: 1
+Name: CATHRINE
+Age: 20
+Course: C
+
+Enter new details:
+Enter new Id: 5
+Enter new Name: GOVINTH
+Enter new Age: 45
+Enter new Course: JAVA
+
+Updated Student Details:
+Id: 5
+Name: GOVINTH
+Age: 45
+Course: JAVA
+
+Enter ID to delete: 1
+Student not found.
+
+=== Code Execution Successful ===
